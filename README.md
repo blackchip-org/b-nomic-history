@@ -14,9 +14,9 @@ I did manage to find a snapshot from here:
 * http://agora-notary.wikidot.com/deleted:b-nomic
 
 I have no clue when it was from, but it is a ruleset I remember. I've copied 
-those rules, reformatted them, and placed them in this repo.
+those rules, reformatted them, and placed them in this repository.
 
-* [Ruleset of B Nomic from some undeterimed time](RULES.md)
+* [Ruleset of B Nomic from some undetermined time](RULES.md)
 
 ```
 I yell CREAMPUFF!

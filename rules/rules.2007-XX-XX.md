@@ -1,6 +1,12 @@
-# Section 0: Emergencies and Dictators
+# Rules of B-Nomic
 
-## Rule 0: In Case of Emergency
+Sometime betwwen 2007-09-06 and 2008-02-01
+
+From: http://agora-notary.wikidot.com/deleted:b-nomi
+
+## Section 0: Emergencies and Dictators
+
+### Rule 0: In Case of Emergency
 
 For the purposes of this rule, the term "Potential Emergency
 Participant" (or PEP) shall mean each of the current players of the
@@ -105,13 +111,13 @@ If at any point during the procedure, there are less than four Panic
 Buttons On, the procedure stops and B Nomic stops being in a State of
 Emergency, and normal Game time resumes.
 
-# Section 1: Foundation
+## Section 1: Foundation
 
-## Rule 1-1: The Game of B
+### Rule 1-1: The Game of B
 
 The name of this game is B Nomic.
 
-## Rule 1-2: Game Objects
+### Rule 1-2: Game Objects
 
 The game of B Nomic consists entirely of Game Objects, which may be
 known simply as Objects. Anything that exists in the game is an
@@ -120,7 +126,7 @@ Object, and anything that is not an Object is not in the game.
 Game Objects can only be created, destroyed, or modified if allowed by
 the Rules, in a manner explicitly governed by the Rules.
 
-## Rule 1-3: Outsiders
+### Rule 1-3: Outsiders
 
 An External Force is anything which exists independently of the game.
 That is, it would still exist if the game stopped existing, and would
@@ -134,7 +140,7 @@ something that exists outside of the game but is also acknowledged by
 the rules as influencing the state of the game, and thus exists within
 the game as well, such as a player.]]
 
-## Rule 1-4: Joining and Leaving
+### Rule 1-4: Joining and Leaving
 
 There exists a ministry known as the Ministry of Society. The Minister
 of Society, also known as the Registrar, is responsible for
@@ -189,7 +195,7 @@ A Player may cause any other Player who has become a player within the
 past 12 ndays to cease to be a Player with 3 Support. He must state
 the reason for such action.
 
-## Rule 1-8: Rules
+### Rule 1-8: Rules
 
 Rules are Game Documents that define how this game is played. Each
 Rule may have a Name and a Number.
@@ -209,13 +215,13 @@ The Rulekeeper may, as a Game Action, do any of the following:
 be contained by a Section.
 * Move a Rule into a Section.
 
-## Rule 1-9: Fora
+### Rule 1-9: Fora
 
 A Forum is any External Force that allows Outsiders to communicate.
 Each forum may be designated as one of the terms Private, Public, or
 Discussion. All Fora are initially Private.
 
-## Rule 1-10: Game Actions
+### Rule 1-10: Game Actions
 
 A Game Action is defined as any activity specified by the rules to be
 a Game Action. Other Outsiders may also take Game Actions if
@@ -246,14 +252,14 @@ mean that X is a Game Action; but such a declaration implies that only
 players may take the Game Action X (unless another declaration permits
 other Outsiders to as well).
 
-## Rule 1-11: Submission
+### Rule 1-11: Submission
 
 The rules may state that it is legal for Outsiders to Submit certain
 document types as a Game Action. To Submit a Game Document, an
 Outsider must provide a full description of the Document in the Public
 Forum message where they take the Action of Submitting.
 
-## Rule 1-12: Eras
+### Rule 1-12: Eras
 
 The First Era of B Nomic is the time starting with the creation of the
 game (approx. 5 Dec 2001, prompted by a five-month lull in A Nomic)
@@ -271,7 +277,7 @@ The Fourth Era of B Nomic is the time starting with nweek 135 (10 Dec
 2007, prompted by a second State of Emergency in 2 nweeks), and
 continuing to the present.
 
-## Rule 1-13: A Peculiar Quality
+### Rule 1-13: A Peculiar Quality
 
 Any Game Object may possess a non-negative, finite, number of Properties.
 
@@ -280,7 +286,7 @@ A Property is described by a unique string of alphanumeric characters.
 Properties may only be granted or removed as described in the rules,
 or by proposal.
 
-## Rule 1-14: Attributes
+### Rule 1-14: Attributes
 
 An Attribute is a game object, defined in the rules. Each Attribute
 has a Scope, a Range, and a Default Value. The Scope is a set of Game
@@ -307,7 +313,7 @@ The Scope, Range, and Default Value of Attributes are static and
 defined in the Rules. The Value of Instances of Attributes can be
 changed only as specified in the Rules.
 
-## Rule 1-16: Transactions
+### Rule 1-16: Transactions
 
 As a Game Action, an Outsider can submit a Transaction. A Transaction
 consists of:
@@ -331,17 +337,17 @@ the Outsider had taken them individually.
 
 A Transaction that Fails has no effect.
 
-## Rule 1-18: untitled
+### Rule 1-18: untitled
 
 Whatever is not prohibited or regulated by a rule is permitted and
 unregulated. However, for the purposes of this rule an action or
 object is regulated if described by a rule.
 
-# Section 2: Gameplay
+## Section 2: Gameplay
 
-## Rule 2-1: NTime
+### Rule 2-1: NTime
 
-### Definition
+#### Definition
 
 There is a Game Object known as The Clock. The Clock consists of the
 following values:
@@ -351,7 +357,7 @@ following values:
 * A state of being Off or On
 * A nonnegative integer known as the ndelay
 
-### Clock Changes
+#### Clock Changes
 
 At midnight (00:00:00) Coordinated Universal Time (UTC), if the Clock
 is On, then the nday is incremented by 1. Otherwise, the ndelay is
@@ -375,7 +381,7 @@ until the Minister of Change has published to the Public Forum the
 results of the previous nweek's voting, if any. When the Clock is
 turned On, the ndelay is set to zero.
 
-### Time
+#### Time
 
 Each time that the Clock nday value changes a new nday begins. /*the
 previous nday ends in the moment immediately before the Clock change*/
@@ -392,7 +398,7 @@ clock turns on, the current ndelay immediately ends. While the clock
 is off a period of one ndelay is the time intervening between two
 consecutive changes of the Clock ndelay value.
 
-### Durations
+#### Durations
 
 A duration to the effect of "X ndays", where X is a number, shall be
 interpreted to mean that the duration ends at the end of the nday
@@ -414,7 +420,7 @@ A duration to the effect of "X rdays", where X is a number, shall be
 interpreted to mean the duration ends after X occurrences of midnight
 UTC.
 
-### Nyears
+#### Nyears
 
 A period of 10 nweeks is known as an nyear. Hence, the first 10 nweeks
 (1-10 on the Clock) comprise nyear 1, the second (11-20 on the Clock)
@@ -424,16 +430,16 @@ Starts and ends of nday
 All events occurring at the end of an nday occur before all events
 occurring at the beginning of the next nday.
 
-## Rule 2-2: Proposals
+### Rule 2-2: Proposals
 
-### The Ministry of Change
+#### The Ministry of Change
 
 There exists a ministry known as the Ministry of Change. The Minister
 of Change, also known as the Chairman, is responsible for maintaining
 a Public Display of the current Proposals, including whether they have
 passed or failed if applicable.
 
-### Definition
+#### Definition
 
 Proposals are Game Documents. Each proposal has the following properties:
 
@@ -459,7 +465,7 @@ unclear whether or not a particular part of the text is a gamestate
 change; determining this is left to the Chairman and the justice
 system. */
 
-### Submission and Revision
+#### Submission and Revision
 
 Any player may submit a proposal at any time, or may revise a Pending
 proposal he owns by resubmitting it, unless a rule says otherwise. To
@@ -483,7 +489,7 @@ As a Game Action a Player may withdraw a proposal with status Pending
 if they are the Author of that Proposal. A Proposal that is withdrawn
 has its Status set to Historical and its Success state set to Lost.
 
-### Voting
+#### Voting
 
 The Voting Period for a given nweek, or just "Voting", is defined as
 the period of time from the beginning of nday 9 of that nweek until
@@ -506,7 +512,7 @@ words are ignored.
 The most recent Vote on a proposal by a Registered Voter is called
 that Registered Voter's Final Vote on that proposal.
 
-### Tallying the votes
+#### Tallying the votes
 
 A Proposal's Stamina is equal to the sum of the Vote Power of the
 Registered Voters whose Final Vote on that Proposal is FOR, plus the
@@ -534,7 +540,7 @@ the resulting changes to the game occur.
 
 Proposals that do not Pass are said to have Failed.
 
-### Dependency Culling
+#### Dependency Culling
 
 When Dependency Culling occurs, every Open proposal is processed in
 ascending order by Proposal Number. When a proposal is processed in
@@ -542,14 +548,14 @@ this manner, if it Depends on a proposal that is Lost, then it becomes
 Lost itself. This process is repeated as long as there is any Open
 proposal that Depends on a Lost proposal and is not Lost itself.
 
-### Conflict Culling
+#### Conflict Culling
 
 When Conflict Culling occurs, every Open proposal is processed in
 descending order of Strength, and of Proposal Number when Strength is
 equal. When a proposal is processed in this manner, if it is Won, then
 every proposal that Conflicts with it becomes Lost.
 
-## Rule 2-3: Victory
+### Rule 2-3: Victory
 
 Trophies are Game Objects. The number of Trophies held by a player is
 known as that player's Win Count. Players may only receive Trophies in
@@ -578,15 +584,15 @@ be Fulfilled.
 
 /* In other words, you can't win the same way twice in an nweek. */
 
-## Rule 2-4: Points
+### Rule 2-4: Points
 
 Any Game Object may have points. Points are Game Objects. The number
 of points an object possesses may also be referred to as that object's
 "score." An object's score cannot be less than zero.
 
-## Rule 2-5: Judgment
+### Rule 2-5: Judgment
 
-### the Oracle
+#### the Oracle
 
 There exists a ministry known as the Ministry of Questions. The
 Minister of Questions, also known as the Oracle, is responsible for
@@ -594,7 +600,7 @@ maintaining a Public Display of the current Consultations. There
 exists an Object called the staff of ZOT. The Oracle holds the staff
 of ZOT.
 
-### Consultations
+#### Consultations
 
 Any player may as a Game Action submit a Consultation.
 
@@ -619,7 +625,7 @@ and choose a number of his liking for a new Consultation.
 A Consultation is in one of the states of Waiting, ZOTTED and
 Pondered. A Consultation is initially Waiting.
 
-### ZOTTING
+#### ZOTTING
 
 Upon submission of a Consultation the Oracle shall as a Game Action
 select a Priest for that Consultation. Alternatively the Oracle may
@@ -633,7 +639,7 @@ Answered yet and its assigned Priest requests him to do so. In this
 case the Oracle is required to grant the request or immediately
 reassign the Consultation to a new Priest instead.
 
-### Selecting a Priest
+#### Selecting a Priest
 
 whenever a Priest is to be selected for a Consultation, the Oracle
 shall select one between the eligible Players. All Active Players,
@@ -642,7 +648,7 @@ the Oracle and Players that have already been selected as Priests for
 that Consultation, are eligible for selection as Priests. If no Player
 is eligible, the Oracle is automatically selected as Priest.
 
-### The Answer
+#### The Answer
 
 The selected Priest shall find inspiration in his knowledge of the
 Rules and, as a Game Action, Answer his assigned Consultation YES or
@@ -660,7 +666,7 @@ For the purposes of answering Consultations the words "True",
 "Yes", and the words "False", "Negative" and "Incorrect" are to be
 considered synonymous with "No".
 
-### Automatic Reassignment
+#### Automatic Reassignment
 
 At the beginning of each nweek, if a Consultation is Waiting and has
 not been Answered the Oracle shall select a new Priest for that
@@ -668,7 +674,7 @@ Consultation. In the event that the clock is off, every 10 ndelays all
 Waiting Consultations that have not been Answered yet are reassigned
 to a new Priest.
 
-### Overriding Consultations
+#### Overriding Consultations
 
 When a Priest submits an answer to a consultation, within three ndays
 (or ndelays if the clock is off) since its submission, any player
@@ -685,7 +691,7 @@ ceases to be Answered and becomes Waiting. The Oracle shall then
 immediately assign a new Priest to the Consultation. The previous
 Priest's answer and Oracularity (if any) is discarded.
 
-### Oracularities
+#### Oracularities
 
 As part of their answer a Priest may submit an Oracularity. An
 Oracularity is a Game Document which includes a list of changes to the
@@ -716,7 +722,7 @@ Consultation is the same as the answer originally supplied by its
 Priest, then any Oracularity submitted with that answer is followed
 and the gamestate and rule changes it calls for take effect.
 
-## Rule 2-6: Scoring
+### Rule 2-6: Scoring
 
 Whenever a Proposal becomes Historical,
 
@@ -728,7 +734,7 @@ whose Final Vote on the proposal was FOR.
 Player whose Final Vote on the proposal was FOR.
 * If the Proposal Failed and was never Won, then its Author loses 3 points.
 
-## Rule 2-7: Players May Vote
+### Rule 2-7: Players May Vote
 
 All Players are Registered Voters.
 
@@ -736,7 +742,7 @@ At the beginning of Ballotday, each Player who Gave his Allegiance to
 a Faction during that nweek has his Vote Power set to 0. All other
 players have their Vote Power set to 1.
 
-## Rule 2-8: Objecting
+### Rule 2-8: Objecting
 
 The Rules may explicitly require a specific type of action to be
 performed "without N objections" where N is a positive natural number.
@@ -752,7 +758,7 @@ Objecting is a Game Action and must be performed in a Public Forum.
 
 A Player may not object to an action he attempted to perform.
 
-## Rule 2-9: Supporting
+### Rule 2-9: Supporting
 
 The Rules may explicitly require a specific type of action to be
 performed "with N supporters" where N is a positive natural number.
@@ -769,7 +775,7 @@ Supporting is a game action and must be performed on a public forum.
 
 A Player may not support an action he attempted to perform.
 
-## Rule 2-10: Foreign Relations
+### Rule 2-10: Foreign Relations
 
 There exists a ministry known as the Ministry of Foreign Relations.
 The Minister of Foreign Relations, also known as the Ambassador, is
@@ -783,7 +789,7 @@ action to cause B Nomic to perform that action with 2 supporters and
 without objection, unless the Rules of B Nomic provide for a different
 threshold of support for a particular action.
 
-## Rule 2-11: RPG
+### Rule 2-11: RPG
 
 There is an attribute "Hit Points" with a scope of all players, a
 range of all non-negative integers, and a default value of 10. If a
@@ -793,7 +799,7 @@ be "Dead". All other players are considered to be "Alive". Each nday,
 any living player whose hit points have been reduced shall recover 1
 hit point up to their maximum number of hit points.
 
-## Rule 2-12: Levels
+### Rule 2-12: Levels
 
 There is an Attribute, named Level, with a Scope of all Players, a
 Range of integers between 1 and 10 inclusive. The value of Level is
@@ -810,22 +816,22 @@ determined by the Player's Points as shown below:
 * Level 9: 226 <= Points < Heck of a Lot
 * Level 10: Points >= Heck of a Lot
 
-# Section 3: General
+## Section 3: General
 
-## Rule 3-1: The Temporal Prime Directive
+### Rule 3-1: The Temporal Prime Directive
 
 No rule or game action may require or force any retroactive changes to
 the game state. It is, however, permissible, to create rules or
 perform otherwise-legal game actions that simulate retroactive changes
 to the game state.
 
-## Rule 3-2: Disambiguation
+### Rule 3-2: Disambiguation
 
 No text in any Rule shall be interpreted as a specific Player's name,
 unless that rule explicitly states that said text shall be interpreted
 as a specific Player's name.
 
-## Rule 3-5: Active Players
+### Rule 3-5: Active Players
 
 The group of players that currently possess the Active property may be
 called the Active Players.
@@ -834,12 +840,12 @@ At the beginning of each nweek, the players that voted in the previous
 nweek gain the "Active" property, the players that failed to vote in
 the previous nweek lose the "Active" property.
 
-## Rule 3-6: Enough
+### Rule 3-6: Enough
 
 A Quorum is defined to be any number greater than half the number of
 Active Players.
 
-## Rule 3-7: Official Quantities
+### Rule 3-7: Official Quantities
 
 For all game purposes the following phrases are defined to mean the
 indicated numbers.
@@ -862,7 +868,7 @@ indicated numbers.
 * A Bajillion = 100 000 000 000 000
 * An Insane Number = The number of players in the game
 
-## Rule 3-8: Calendar
+### Rule 3-8: Calendar
 
 the ndays of the nweek have the following names:
 
@@ -880,7 +886,7 @@ the ndays of the nweek have the following names:
 * nday 12 = Thirnight
 * nday 13 = Armageddon
 
-## Rule 3-9: Spelling
+### Rule 3-9: Spelling
 
 If the Rules contain errors of spelling, inconsistent capitalization,
 or other trivial errors, any Player may as a Game Action and without
@@ -901,7 +907,7 @@ submitted the Tidiness List gains one point for every three errors
 corrected. Tidiness Lists correcting less than three errors give no
 points.
 
-## Rule 3-10 Currency
+### Rule 3-10 Currency
 
 A "currency owning object", or COO, is a type of game object that can
 own currency (also called "money"). All players are currency owning
@@ -931,7 +937,7 @@ in the currency. If for any reason the amount of his points cannot go
 down or the amount of his chosen currency cannot go up, then nothing
 happens.
 
-## Rule 3-11 Mackerel
+### Rule 3-11 Mackerel
 
 The default currency of this game is mackerel, also known as a mack
 (singular) or macks (plural). This can be shortened to a lowercase m.
@@ -945,7 +951,7 @@ for example, m50 or m10.15.
 The points -> mackerel exchange rate is 5.0 - that is, 1 point may be
 exchanged for m5.
 
-## Rule 3-12 devices
+### Rule 3-12 devices
 
 A "device" is a type of game object.
 
@@ -999,11 +1005,11 @@ Price is an Attribute with a Scope of all blueprints, a Range of
 nonnegative rational amounts of currency, and a Default Value of 50
 mackerel.
 
-## Rule 3-13: Ceci n'est pas un titre
+### Rule 3-13: Ceci n'est pas un titre
 
 There is no Rule 3-13.
 
-## Rule 3-14: The Ministry of Goods
+### Rule 3-14: The Ministry of Goods
 
 There exists a ministry known as the Ministry of Goods. The Minister
 of Goods, also known as the Artisan, is responsible for maintaining a
@@ -1043,14 +1049,14 @@ neither of the two highest bidders successfully purchases the unique
 device, or if such bidders do not exist, the unique blueprint ceases
 to exist without device creation.
 
-## Rule 3-15: Pronouns
+### Rule 3-15: Pronouns
 
 All personal pronouns shall be taken to refer to entities of any
 gender or of no gender regardless of the purported gender of the words
 used. Language intended to apply only to members of a specific gender
 must explicitly say that it does so.
 
-## Rule 3-16: Message Of The nweek
+### Rule 3-16: Message Of The nweek
 
 There exists a unique Game Object called the Message Of The nweek,
 also known as the motnw. The motnw has one Attribute called the
@@ -1065,7 +1071,7 @@ nweek.
 The value of the motnw Message Attribute should be prominently posted
 on a Public Display. [[the main page of the B Nomic wiki is ideal]]
 
-## Rule 3-17: Threat Awareness
+### Rule 3-17: Threat Awareness
 
 There exists a unique Game Object called the Threat Awareness
 Flagpole. There exists an Attribute named the Threat Flag, with a
@@ -1096,9 +1102,9 @@ time, there are less than two Panic Buttons that are On and the value
 of the Threat Flag is Black Watch Plaid, the value of the Threat Flag
 shall be set to Jolly Roger.
 
-# Section 5: Factions
+## Section 5: Factions
 
-## Rule 5-1 Agreements
+### Rule 5-1 Agreements
 
 An Agreement recognized by B Nomic is one that is between two or more
 External Forces called Parties that explicitly describes:
@@ -1123,7 +1129,7 @@ by other jurisdictions, B Nomic does not recognize them. However, an
 Agreement does not have to have been intended to comply with this rule
 in order to be considered recognized by B Nomic.
 
-## Rule 5-2 Factions
+### Rule 5-2 Factions
 
 A Faction is an Agreement recognized by B Nomic that is a part of this
 game. An Agreement recognized by B Nomic may join the game as a Game
@@ -1146,7 +1152,7 @@ party to the Agreement.
 * The Agreement has decided, through its internal mechanisms for
 doing so, to cease being a Faction in B Nomic.
 
-## Rule 5-3 Factions May Vote
+### Rule 5-3 Factions May Vote
 
 All Factions are Registered Voters.
 
@@ -1160,9 +1166,9 @@ Historical, each Faction's Vote Power gets multiplied by 3/4.
 
 A Faction cannot become a Player, nor apply for Playership.
 
-# Section 6: Ministries
+## Section 6: Ministries
 
-## Rule 6-1: Ministries
+### Rule 6-1: Ministries
 
 A Ministry is a Game Object that can be assigned to at most one
 Player. It represents the responsibility of that Player to keep
@@ -1178,35 +1184,35 @@ The terms "post holder", "pot holster", "post holder designate", and
 "Minister" refer to the Player in possession of a given Ministry. This
 can be abbreviated "PHD".
 
-## Rule 6-2: Assigning Ministries
+### Rule 6-2: Assigning Ministries
 
 A Player may, as a Game Action, assign a Vacant Ministry to himself.
 
-## Rule 6-3: Resigning from Ministries
+### Rule 6-3: Resigning from Ministries
 
 A Minister may Resign from his Ministry via Game Action. At that time,
 the Ministry becomes Vacant.
 
-## Rule 6-4: Usurping Ministries
+### Rule 6-4: Usurping Ministries
 
 A Player may, as a Game Action and without 2 objections in 2 rdays,
 Usurp a non-Vacant Ministry. In this case, the Ministry is no longer
 assigned to the previous Minister and is assigned to the Usurper
 instead.
 
-## Rule 6-5: Ministry Rewards and Vacating
+### Rule 6-5: Ministry Rewards and Vacating
 
 At the end of each nweek, each player who is a Minister gains m50.
 Then, all Ministries become Vacant.
 
-## Rule 6-6: Public Displays
+### Rule 6-6: Public Displays
 
 A Public Display is a display of an aspect of the current state of the
 game in a form easily accessible to all Players. Good Public Displays
 can include the B Nomic wiki or posting on a regular basis to a Public
 Forum.
 
-## Rule 6-8: The MetaMin
+### Rule 6-8: The MetaMin
 
 There exists a Ministry called the Ministry of Ministry, also known as
 the MetaMinistry. The Minister of Ministry may be referred to as the
@@ -1219,7 +1225,7 @@ current holders.
 The MetaMin is also responsible for tracking and displaying any state
 of the game that isn't covered by another Ministry.
 
-## Rule 6-9: MiniMinistries
+### Rule 6-9: MiniMinistries
 
 A MiniMinistry is a Ministry that is not explicitly defined by the
 rules. Any Minister of a MiniMinistry may be referred to as a MiniMin.
@@ -1228,7 +1234,7 @@ The MetaMin may create a MiniMinistry at any time, specifying its name
 and its responsibilities. He may also dissolve any MiniMinistry at any
 time.
 
-## Rule 6-10: Ministerial Obligations
+### Rule 6-10: Ministerial Obligations
 
 A passed proposal can create an obligation for a Ministry to take some
 specific action within its powers.

@@ -1,4 +1,4 @@
-# Rules of B Nomic - September 6, 2017
+# Rules of B Nomic - September 6, 2007
 
 From: https://web.archive.org/web/20070906014937/http://b.nomic.net/index.php/Rules
 

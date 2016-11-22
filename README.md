@@ -23,7 +23,7 @@ I have now searched on the Internet Archive and have found more.
 ## Rules
 
 * [July 19, 2007](rules/rules.2007-07-19.md)
-* [September 6, 2017](rules/rules.2007-09.06.md)
+* [September 6, 2017](rules/rules.2007-09-06.md)
 
 Rules have been reformatted, by hand, into Markdown by hand. Errors in the 
 translation are likely.

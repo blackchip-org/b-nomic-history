@@ -17,6 +17,7 @@ A PEP may post a message to a Public Forum or any forum that within the past mon
 A PEP may post a message to a Public Forum or any forum that within the past month was a Public Forum stating that he is Stopping his Panic Button. If he does so, his Panic Button becomes Off.
 
 If there exist at least four Panic Buttons which are On, B Nomic becomes in a State Of Emergency. When this occurs, the following Procedure happens:
+
 1. Game time is stopped. Whatever means used in the Game to track time is stopped as of the beginning of the Emergency. Pending events and deadlines relative to Game time, with the exception of those specified in this rule, are postponed until Game time resumes. Pending events and deadlines with absolute dates and times do not occur.
 2. The PEP who most recently held the Minister of Ministries becomes the Emergency Coordinator. If this Emergency Coordinator does not exist, or it is unclear which PEP it is, or if he does not possess the Active property, then the PEP that first attempts to organize running this Procedure becomes the Emergency Coordinator.
 3. The Emergency Coordinator designates a means for PEPs to communicate as the Emergency Forum and makes a reasonable effort to notify other PEPs about the Forum's existence.

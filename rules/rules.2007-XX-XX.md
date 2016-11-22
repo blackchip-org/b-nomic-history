@@ -2,7 +2,7 @@
 
 Sometime betwwen 2007-09-06 and 2008-02-01
 
-From: http://agora-notary.wikidot.com/deleted:b-nomi
+From: http://agora-notary.wikidot.com/deleted:b-nomic
 
 ## Section 0: Emergencies and Dictators
 

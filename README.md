@@ -21,7 +21,7 @@ I have now searched on the Internet Archive and have found more.
 ## Rules
 
 * [July 19, 2007](rules/rules.2007-07-19.md)
-* [September 6, 2017](rules/rules.2007-09-06.md)
+* [September 6, 2007](rules/rules.2007-09-06.md)
 * [Rules from Here](rules/rules.2007-XX-XX.md)
 * [February 1, 2008](rules/rules.2008-02-01.md)
 * [August 27, 2008](rules/rules.2008-08-27.md)
